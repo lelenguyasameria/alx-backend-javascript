@@ -13,7 +13,7 @@ module.exports = {
       sourceType: 'module',
     },
     rules: {
-      // Your custom rules here
+      
     },
   };
   
