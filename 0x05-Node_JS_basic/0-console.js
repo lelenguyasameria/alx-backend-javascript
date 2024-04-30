@@ -1,5 +1,5 @@
-function displayMessage(manipulate) {
-    console.log(manipulateS);
+function displayMessage(data) {
+    console.log(data);
   }
   
   module.exports = displayMessage;
